@@ -1,0 +1,17 @@
+[
+    {
+        "student_id": "24/SCI01/023",
+        "full_name": "AJISEBUTU AL-AMEEN OMOKOLADE",
+        "student_class": "300",
+        "gender": "MALE",
+        "date_of_birth": "2007-11-07",
+        "scores": {
+            "English Language": 95.0,
+            "Mathematics": 76.0,
+            "Biology": 78.0,
+            "Chemistry": 88.0,
+            "Physics": 70.0
+        },
+        "result_date": "2026-11-09"
+    }
+]

@@ -1,0 +1,23 @@
+=======================================================
+                 STUDENT REPORT CARD
+=======================================================
+Student ID:       24/SCI01/023
+Full Name:        AJISEBUTU AL-AMEEN OMOKOLADE
+Class/Form:       300
+Gender:           MALE
+Date of Birth:    2007-11-07
+-------------------------------------------------------
+SUBJECT RESULTS
+-------------------------------------------------------
+Biology                          78.00
+Chemistry                        88.00
+English Language                 95.00
+Mathematics                      76.00
+Physics                          70.00
+-------------------------------------------------------
+Number of Subjects: 5
+Total Score:        407.00
+Average Score:      81.40
+Grade:              A
+Result Entered:     2026-11-09
+=======================================================
